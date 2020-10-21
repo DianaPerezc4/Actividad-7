@@ -1,0 +1,29 @@
+/* Estructura  CSS  */
+
+body { 
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: powderblue;
+}
+
+h1{
+    background-color: rgb(208, 255, 0);
+text-align: center;
+color: seagreen;
+}
+
+img{ 
+    display: block; 
+    margin: auto;
+}
+
+p{
+    color: teal;
+}
+
+h2
+{
+    background-color: floralwhite;
+text-align: center;
+color: fuchsia;
+}
+    
